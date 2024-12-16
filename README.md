@@ -1,6 +1,6 @@
 ## SD forge webui docker image
 
-Cuda:11.8.
+Cuda:12.2.
 
 Ubuntu:22.04.
 
